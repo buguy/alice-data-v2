@@ -1,0 +1,262 @@
+{
+  "hero": {
+    "title_line1": "陪你走出創傷",
+    "title_line2": "回到安全 活出自由",
+    "subtitle_line1": "每個人就是自己生命的專家。",
+    "subtitle_line2": "引導你連結身心，啟動熱情，活出精彩人生。"
+  },
+  "stats": [
+    {
+      "value": "10+",
+      "label_line1": "年諮詢",
+      "label_line2": "經驗",
+      "nowrap": false
+    },
+    {
+      "value": "NGH",
+      "label_line1": "認證催眠",
+      "label_line2": "治療師",
+      "nowrap": false
+    },
+    {
+      "value": "SETI",
+      "label_line1": "創傷療癒",
+      "label_line2": "引導師",
+      "nowrap": false
+    },
+    {
+      "value": "OSHO系統",
+      "label_line1": "家族",
+      "label_line2": "排列師",
+      "nowrap": true
+    },
+    {
+      "value": "Life Coach",
+      "label_line1": "生命",
+      "label_line2": "教練",
+      "nowrap": true
+    }
+  ],
+  "video": {
+    "title": "陪你找回愛的安全與自由",
+    "description": "透過專業的身心引導，我們一起在呼吸與覺察中，重新定義生命的韌性與精彩。",
+    "youtube_embed_url": "https://www.youtube.com/embed/QiY-7nyTyns?autoplay=1&rel=0",
+    "cover_image": "/image/video_cover_240.png"
+  },
+  "about": {
+    "section_title": "ABOUT ME",
+    "subtitle_line1": "從身心失衡到",
+    "subtitle_line2": "重獲新生的療癒旅程",
+    "paragraphs": [
+      "自小容易因情緒、壓力而生病，2006年被確診為僵直性脊椎炎，需要持續服藥、復健，直到2008年開始往內探索，認出並釋放了心中的傷痛與固著信念後，疾病不藥而癒。",
+      "由於有過許多因心的受傷而讓身體生病的經歷，故專業學習著重於情緒與身體取向心理治療。盈穎看重整體與平衡，相信「每個人就是自己生命的專家」。"
+    ],
+    "image": "/image/AboutMe_modified1.png",
+    "name": "盈穎",
+    "english_name": "Prem Pravahi",
+    "certifications": [
+      "身體經驗創傷療法",
+      "教育心理與諮商所碩士",
+      "美國身體經驗創傷療育師",
+      "NGH認證催眠治療師",
+      "奧修系統家族排列師",
+      "生命教練"
+    ]
+  },
+  "services": {
+    "section_title": "SERVICES",
+    "subtitle": "多元療癒，客製化引導",
+    "description": "針對您當下的狀態，運用適合的工具與方法，陪伴您找回力量。",
+    "items": [
+      {
+        "icon": "psychology",
+        "icon_bg": "bg-peach/30",
+        "title": "個案諮詢與療癒",
+        "description": "包含身體經驗創傷療法一對一個案、催眠探索、信念調整。協助您看見內在的渴望，釋放身體的緊繃。"
+      },
+      {
+        "icon": "diversity_3",
+        "icon_bg": "bg-periwinkle/30",
+        "title": "團體工作坊",
+        "description": "戲劇療癒團體、多元性表達藝術療癒團體。透過團體的力量，找回生命的熱情與創造力。"
+      },
+      {
+        "icon": "self_improvement",
+        "icon_bg": "bg-sage/30",
+        "title": "靈性與能量",
+        "description": "禪卡問事、金錢靈氣、覺知八堂課。視當事人狀態變化，運用適合的工具給予指引。"
+      },
+      {
+        "icon": "school",
+        "icon_bg": "bg-peach/30",
+        "title": "講座與讀書會",
+        "description": "身心健康推廣講座、種子找路線上讀書會。致力於演說來啟動聽眾對自己生命的熱情。"
+      }
+    ]
+  },
+  "course": {
+    "section_title": "HEALING COURSE",
+    "name_line1": "走出性創傷",
+    "name_line2": "找回愛的力量",
+    "subtitle": "一堂專為曾受傷的妳設計的身體療育線上課程",
+    "image": "/image/Whisk_aa52bc6a625725da23941ed615a7830ddr.png",
+    "badge_label": "預售中",
+    "price": "8,800 TWD",
+    "original_price": "原價 16,800 TWD",
+    "description_paragraphs": [
+      "如果妳曾經歷過性創傷、關係暴力、身體緊繃、驚嚇反應或解離狀態，甚至在多年後的生活中，仍感到難以放鬆、難以信任、難以靠近人，這堂課將是妳慢慢回家的起點。",
+      "這不是一堂急著讓妳「變好」的課，而是一步步，陪妳在身體裡找回安全感、主導權與溫柔的力量。"
+    ],
+    "badges": [
+      {
+        "icon": "school",
+        "text": "5大單元 × 30章節"
+      },
+      {
+        "icon": "schedule",
+        "text": "課程時間五小時"
+      },
+      {
+        "icon": "card_giftcard",
+        "text": "三大好禮"
+      }
+    ],
+    "structure": {
+      "title": "課程架構｜5大單元 × 30個章節",
+      "modules": [
+        "安全感建立與身體記憶覺察",
+        "情緒漩渦的覺知與調節",
+        "釋放卡住的能量、完成未竟之舉",
+        "重建身體的界線與自主權",
+        "日常自我照顧與「愛的儀式」"
+      ],
+      "note": "每章節都搭配溫柔可實踐的小練習，幫助妳一點一滴重建與自己身體的連結。"
+    },
+    "additional_description": "課程由擁有超過3,000+小時諮詢輔導經驗的身體療育師盈穎老師親自設計，結合神經系統調節、內觀覺察與身體經驗創傷療育的核心理念。",
+    "bonuses": {
+      "title": "現在報名即擁有三大好禮",
+      "list": [
+        {
+          "icon": "looks_one",
+          "bold": "一對一創傷療育諮詢一次",
+          "rest": "（價值 $6,000）"
+        },
+        {
+          "icon": "looks_two",
+          "bold": "專屬療育陪伴音檔",
+          "rest": "（可每日使用）"
+        },
+        {
+          "icon": "looks_3",
+          "bold": "加入盈穎老師官方LINE帳號",
+          "rest": "，享一整年學員限定研討會"
+        }
+      ],
+      "limited_gift_prefix": "限量加贈100套：",
+      "limited_gift": "「陪伴牌卡乙組」"
+    },
+    "footer_text": {
+      "line1": "這一次，不急著遺忘傷痛，只想陪妳更靠近真實的自己。",
+      "line2": "讓我們一起，讓身體記起愛，用溫柔找回力量。"
+    }
+  },
+  "testimonials": {
+    "section_title": "個案回饋",
+    "items": [
+      {
+        "quote": "盈穎專業、又溫柔堅定的引導，帶我看到不同的狀態和靈魂的渴望。",
+        "rating": 5
+      },
+      {
+        "quote": "諮詢後，好好的睡了一場，好久沒有這麼放鬆的休息了，原來發生過的事讓身體卡住這麼多的緊繃！",
+        "rating": 5
+      },
+      {
+        "quote": "盈穎有種看透的能力，是那種很有底蘊、綜觀全局後，非常明瞭你在哪個位置的看透。牌卡提醒我，它是禮物。",
+        "rating": 5
+      }
+    ]
+  },
+  "media": {
+    "section_title": "MEDIA COVERAGE",
+    "subtitle": "媒體報導",
+    "description": "專業與熱情的結合，獲得媒體的認可與報導",
+    "articles": [
+      {
+        "source": "經濟日報",
+        "date": "2025/03/12 17:10:20",
+        "author": "楊聰橋",
+        "title": "充滿教育魂的心理工作者 邵盈穎與澄星夢想的心靈創作之旅",
+        "paragraphs": [
+          "在現代社會中，心理健康不僅關係到個人內心的平衡，也影響著整個社會的和諧。澄星夢想有限公司創辦人邵盈穎，便是一位將生命熱情與專業技能完美結合的心理工作者。她用真摯的心與實際行動，透過在身體取向的心理整合專業幫助眾多來訪者走出心靈的困境，並在心理健康推廣與教育培訓上寫下了一個個精彩的故事。",
+          "邵盈穎的生命中也有許多段不美麗的過往，包括曾在學校被霸凌排擠、關係中的背叛、性侵等，但她透過學習突破過往限制性的思維，並透過實踐所學一一穿越了重重困難，分享給此刻在生命中感到受困受苦的人們，她成功轉化與創作精彩的歷程，多年來已成為她持續分享的故事，並渴望透過她的故事引發更多生命相信「生命中所經歷的一切都是成就精彩的養份」。",
+          "她在心理諮詢領域已累積多年豐富經驗，服務個案人數曾一年超過千人，透過專業與耐心，陪伴每一位來訪者看見希望，讓受困於過去創傷與內心恐懼的人們找到突破困境的方法，進而迎向光明的未來。",
+          "無論是長期用藥個案經過長年與病痛的拔河，透過諮詢調整信念、釋放壓力後，再次恢復健康、讓求子煎熬近十年的女性，在她的陪伴與引導下逐步釋放對生產的壓力，順利懷孕生產；以及社交焦慮症的癌症患者，在接受輔導三個月後重拾自信與活力，回到生活中開始創作屬於自己的精彩。",
+          "邵盈穎也曾協助家庭主婦學員從零開始，逐步建立自信與收入，從伸手牌到月收９萬；甚至在四個月內輔導學員月收入成長五倍，最終成功創業成立公司，讓人們從生活中的迷茫中認回自我價值與對未來的信心。",
+          "邵盈穎的成就不僅在個案層面，還有宏大的願景和清楚的發展藍圖。她強烈的願望是在2030年底前，能夠影響1000位懷抱使命且敢於賺大錢的心理工作者，期許與他們在各自專精的領域內，一同協助全世界300萬華人通過學習與實踐，創造出自己精彩的人生。",
+          "成功的背後，是邵盈穎對生命熱愛與不斷學習的堅持。她始終相信，只有透過不斷學習並把知識落實到生活中，才能真正幫助當事人突破重重挑戰，達成他們心中渴望的結果。",
+          "邵盈穎計畫在2025年底前，能夠透過自媒體打造起心理健康教育推廣的付費學習系統，讓更多對自我探索感到好奇的民眾，能夠以輕鬆的月費就能學習到如何建立自己的身心健康習慣；到2030年之前，她能夠將澄星夢想打造成亞洲心理圈中一個家喻戶曉的心理健康推廣品牌，並成立夢想行動學院。更希望能在2032年以前，將自我探索推動成為國民義務教育內的一門必修科目，讓心理健康從小紮根於每一個人的成長歷程中。",
+          "邵盈穎的目標服務對象，除了希望能透過鏈接到學校校長、家長會會長等具影響力的人脈，以演講的方式進入學校來推廣心理健康的日常應用。以及那些願意透過線上課程來改變自己命運、創造具體成果的學員。她始終相信，知識能改變命運，通過持續推動心理健康及自我探索的普及，讓每一位參與者都能從中獲得啟發與實質的轉變。",
+          "面對未來，她期許通過影響更多心理工作者，進而幫助全世界三百萬華人創造出屬於自己的精彩人生。這份以教育為魂、以生命為根的精神，正是現代社會中寶貴的力量，也必將引領更多人走上心靈覺醒與自我成長的光明之路。臉書搜尋:澄星夢想 邵盈穎。"
+        ],
+        "images": [
+          {
+            "src": "/image/176943146291923_P31643109.jpg",
+            "alt": "邵盈穎以照片練習為橋梁，引領學員共同感受與調適情緒",
+            "caption": "邵盈穎以照片練習為橋梁，引領學員共同感受與調適情緒，共舞心靈律動。澄星夢想/提供",
+            "after_paragraph": 0
+          },
+          {
+            "src": "/image/176943148953607_P31643111.jpg",
+            "alt": "澄星夢想透過在身體取向的心理整合專業幫助眾多來訪者",
+            "caption": "澄星夢想透過在身體取向的心理整合專業幫助眾多來訪者走出心靈的困境。澄星夢想/提供",
+            "after_paragraph": 2
+          }
+        ],
+        "external_link": {
+          "url": "https://money.udn.com/money/story/5635/8603376",
+          "label": "原文連結：經濟日報"
+        }
+      }
+    ]
+  },
+  "footer": {
+    "welcome_text": "歡迎透過以下方式與我聯絡:",
+    "social_links": [
+      {
+        "platform": "line",
+        "url": "https://lin.ee/HsWdd14",
+        "aria_label": "Line 官方帳號 - 立即聯繫"
+      },
+      {
+        "platform": "facebook",
+        "url": "https://www.facebook.com/YYShao2008",
+        "aria_label": "Facebook 粉絲專頁 - 追蹤最新動態"
+      },
+      {
+        "platform": "instagram",
+        "url": "https://www.instagram.com/action_inspirer_aliceshao",
+        "aria_label": "Instagram - 查看日常分享"
+      },
+      {
+        "platform": "youtube",
+        "url": "https://www.youtube.com/@pravahi_traumaalchemyschool",
+        "aria_label": "YouTube 頻道 - 觀看影片"
+      },
+      {
+        "platform": "email",
+        "url": "mailto:prempravahi2025@gmail.com",
+        "aria_label": "Email 聯絡 - prempravahi2025@gmail.com"
+      }
+    ],
+    "copyright": "© 2024 走出創傷,找回愛的力量 | 用溫柔陪伴你回家"
+  },
+  "line_modal": {
+    "qr_code_url": "https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=https://line.me/R/ti/p/@249jyghj",
+    "line_url": "https://line.me/R/ti/p/@249jyghj?ts=12071428&oat_content=url",
+    "title": "加入 Line 官方帳號",
+    "description": "掃描 QR Code 或點擊下方按鈕",
+    "button_text": "加入 Line 官方帳號",
+    "footer_text": "加入後即可諮詢課程詳情與報名資訊"
+  }
+}
